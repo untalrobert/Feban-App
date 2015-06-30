@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.borismus.webintent": {
+            "PACKAGE_NAME": "{81524c10-1605-11e5-bb48-e7e2d95bf36f}"
+        },
+        "com.lampa.startapp": {
+            "PACKAGE_NAME": "{81524c10-1605-11e5-bb48-e7e2d95bf36f}"
+        },
+        "cordova-plugin-appavailability": {
+            "PACKAGE_NAME": "{81524c10-1605-11e5-bb48-e7e2d95bf36f}"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "{81524c10-1605-11e5-bb48-e7e2d95bf36f}"
+        }
+    },
+    "dependent_plugins": {}
+}

@@ -1,0 +1,95 @@
+2015-06-16 12:04:40.552 febancolombia[4357:976572] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/23F5AF9F-BABE-40F3-830B-4C857D98A27A/Library/Cookies/Cookies.binarycookies
+2015-06-16 12:04:41.946 febancolombia[4357:976572] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-16 12:04:41.947 febancolombia[4357:976572] Multi-tasking -> Device: YES, App: YES
+2015-06-16 12:04:41.989 febancolombia[4357:976572] Unlimited access to network resources
+2015-06-16 12:04:41.992 febancolombia[4357:976572] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-16 12:04:43.833 febancolombia[4357:976572] Resetting plugins due to page load.
+2015-06-16 12:04:48.418 febancolombia[4357:976572] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/AE1E99EF-3022-4271-896C-DAEBB1C519B0/febancolombia.app/www/index.html#/
+2015-06-16 12:04:50.933 febancolombia[4357:976572] Resetting plugins due to page load.
+2015-06-16 12:04:51.662 febancolombia[4357:976572] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/AE1E99EF-3022-4271-896C-DAEBB1C519B0/febancolombia.app/www/inicio.html
+2015-06-16 12:06:41.120 febancolombia[4800:984294] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/7326C680-BBFA-4F02-886A-4694316101AC/Library/Cookies/Cookies.binarycookies
+2015-06-16 12:06:41.273 febancolombia[4800:984294] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-16 12:06:41.274 febancolombia[4800:984294] Multi-tasking -> Device: YES, App: YES
+2015-06-16 12:06:41.293 febancolombia[4800:984294] Unlimited access to network resources
+2015-06-16 12:06:41.309 febancolombia[4800:984294] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-16 12:06:41.624 febancolombia[4800:984294] Resetting plugins due to page load.
+2015-06-16 12:06:43.597 febancolombia[4800:984294] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/7D351152-6927-4401-98B5-B33AD22A6E71/febancolombia.app/www/index.html#/
+2015-06-16 12:08:49.698 febancolombia[5266:995963] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/F39A83B4-0A91-44B0-9E86-51A87BC57847/Library/Cookies/Cookies.binarycookies
+2015-06-16 12:08:50.815 febancolombia[5266:995963] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-16 12:08:50.815 febancolombia[5266:995963] Multi-tasking -> Device: YES, App: YES
+2015-06-16 12:08:50.838 febancolombia[5266:995963] Unlimited access to network resources
+2015-06-16 12:08:50.860 febancolombia[5266:995963] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-16 12:08:51.914 febancolombia[5266:995963] Resetting plugins due to page load.
+2015-06-16 12:08:55.313 febancolombia[5266:995963] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/A9593F0C-9B84-4CE9-958A-76818227985A/febancolombia.app/www/index.html#/
+2015-06-16 12:47:32.930 febancolombia[6940:1202512] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/329188AE-0752-483A-9DA1-79415225F5AA/Library/Cookies/Cookies.binarycookies
+2015-06-16 12:47:33.478 febancolombia[6940:1202512] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-16 12:47:33.478 febancolombia[6940:1202512] Multi-tasking -> Device: YES, App: YES
+2015-06-16 12:47:33.504 febancolombia[6940:1202512] Unlimited access to network resources
+2015-06-16 12:47:33.519 febancolombia[6940:1202512] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-16 12:47:34.810 febancolombia[6940:1202512] Resetting plugins due to page load.
+2015-06-16 12:47:37.406 febancolombia[6940:1202512] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/ABB245FA-5964-4210-8D88-4060652F7E9D/febancolombia.app/www/index.html#/
+2015-06-16 12:47:39.554 febancolombia[6940:1202512] Resetting plugins due to page load.
+2015-06-16 12:47:39.964 febancolombia[6940:1202512] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-06-16 12:47:39.964 febancolombia[6940:1202512] Resetting plugins due to page load.
+2015-06-16 12:47:40.518 febancolombia[6940:1202512] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/ABB245FA-5964-4210-8D88-4060652F7E9D/febancolombia.app/www/experiencie.html
+2015-06-16 12:47:51.238 febancolombia[6940:1202512] Resetting plugins due to page load.
+2015-06-16 12:47:51.398 febancolombia[6940:1202512] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/ABB245FA-5964-4210-8D88-4060652F7E9D/febancolombia.app/www/inicio.html
+2015-06-16 12:54:49.773 febancolombia[7412:1242421] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/21F3040E-D511-44F3-B1B4-E2A6F7C80D5D/Library/Cookies/Cookies.binarycookies
+2015-06-16 12:54:49.926 febancolombia[7412:1242421] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-16 12:54:49.927 febancolombia[7412:1242421] Multi-tasking -> Device: YES, App: YES
+2015-06-16 12:54:49.937 febancolombia[7412:1242421] Unlimited access to network resources
+2015-06-16 12:54:49.955 febancolombia[7412:1242421] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-16 12:54:50.374 febancolombia[7412:1242421] Resetting plugins due to page load.
+2015-06-16 12:54:52.977 febancolombia[7412:1242421] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/B2DA2254-35A8-4E19-B7EE-9F3B656D1793/febancolombia.app/www/index.html#/
+2015-06-16 12:55:08.015 febancolombia[7412:1242421] Resetting plugins due to page load.
+2015-06-16 12:55:08.444 febancolombia[7412:1242421] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/B2DA2254-35A8-4E19-B7EE-9F3B656D1793/febancolombia.app/www/inicio.html
+2015-06-16 12:55:18.406 febancolombia[7412:1242867] Terminating since there is no system app.
+2015-06-16 12:56:31.407 febancolombia[7855:1253790] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Data/Application/532C791A-DA42-4A56-9A2F-5E59274C6F84/Library/Cookies/Cookies.binarycookies
+2015-06-16 12:56:31.470 febancolombia[7855:1253790] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-16 12:56:31.470 febancolombia[7855:1253790] Multi-tasking -> Device: YES, App: YES
+2015-06-16 12:56:31.477 febancolombia[7855:1253790] Unlimited access to network resources
+2015-06-16 12:56:31.479 febancolombia[7855:1253790] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-16 12:56:31.574 febancolombia[7855:1253790] Resetting plugins due to page load.
+2015-06-16 12:56:33.973 febancolombia[7855:1253790] Finished load of: file:///Users/robespierrelugo/Library/Developer/CoreSimulator/Devices/97DA8C91-E473-4812-BDFB-7E43CD1238B7/data/Containers/Bundle/Application/0A4C4EFB-523C-4045-AF5E-FE249C4A1A01/febancolombia.app/www/index.html#/

@@ -1,0 +1,140 @@
+
+/* reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
+ol,ul{list-style:none;margin:0;padding:0;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+/* start editing from here */
+a{text-decoration:none;}
+.txt-rt{text-align:right;}/* text align right */
+.txt-lt{text-align:left;}/* text align left */
+.txt-center{text-align:center;}/* text align center */
+.float-rt{float:right;}/* float right */
+.float-lt{float:left;}/* float left */
+.clear{clear:both;}/* clear float */
+.pos-relative{position:relative;}/* Position Relative */
+.pos-absolute{position:absolute;}/* Position Absolute */
+.vertical-base{	vertical-align:baseline;}/* vertical align baseline */
+.vertical-top{	vertical-align:top;}/* vertical align top */
+.underline{	padding-bottom:5px;	border-bottom: 1px solid #eee; margin:0 0 20px 0;}/* Add 5px bottom padding and a underline */
+nav.vertical ul li{	display:block;}/* vertical menu */
+nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
+img{width:58%;}
+/*end reset*/
+body {
+	font-family: Arial, Geneva,Helvetica, sans-serif;
+	font-size: 100%;
+	background: #f9f9f9;
+}
+.wrap{
+	padding: 0px;
+
+}
+/* start header */
+.header_bg{
+	background: #00284F;
+}
+.logo{
+	text-align:center;
+}
+
+/*text*/
+.textos-superiores{
+	text-align: center;
+	width: 100%;
+	margin: 8px 0 16px 0;
+	color: #7B7A7A;
+}
+
+
+/* start main */
+
+.grids_1_of_3{
+	padding:25px 0;
+	text-align:center;
+}
+.grid_1_of_3{
+	display: block;
+	float:left;
+	margin-left: 8px;
+}
+.grid_1_of_3:first-child { 
+	margin-left: 7px; 
+} 
+.images_1_of_3 {
+	width: 47.33333%; 
+}
+.images_1_of_3  h3{
+	color: #787879;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.5em;
+}
+
+
+
+/* start footer */
+.footer_bg{
+	background: #00284F;
+	height: 111px;
+}
+.footer{
+	padding:10px 0;
+}
+.span1_of_4  h2{
+	margin:10px 0px 7px 0px;
+	font-size: 0.7em;
+	color: #ABABAB;
+	text-align: center;
+}
+
+
+.f_nav2 {
+	margin:10px 0px 0px 0px;
+	display: inline-block;
+	background: #00284F;
+	width: 99%;
+}
+
+.f_nav2 li{
+	margin:10px 0px 0px 24px;
+	display: inline-block;
+	background: #00284F;
+	width: 24%;
+}
+
+.f_nav2 li a{
+	display: block;
+	color: #fff;
+	font-size: 0.925em;
+	padding: 10px;
+	margin-top: -7px;
+}
+
+/* start portfolio */
+.grids_1_of_3_btm{
+	text-align:center;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+
+#owl-demo .item img{
+	display: block;
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+}
+.tag{
+	width: 31%;
+	margin-left: 30px;
+}
+
+#formulario{
+	margin-left: 5px;
+	margin-top: 10px;
+}
+

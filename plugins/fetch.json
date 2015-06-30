@@ -1,0 +1,32 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.lampa.startapp": {
+        "source": {
+            "type": "registry",
+            "id": "com.lampa.startapp"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.borismus.webintent": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/InQBarna/WebIntent.git",
+            "subdir": "."
+        }
+    },
+    "nl.x-services.plugins.launchmyapp": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/LaunchMyApp-PhoneGap-Plugin.git",
+            "subdir": "."
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"startApp\"><param name=\"ios-package\" value=\"startApp\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"AppAvailability\"><param name=\"ios-package\" value=\"AppAvailability\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.borismus.webintent": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "com.lampa.startapp": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-appavailability": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    },
+    "dependent_plugins": {}
+}
